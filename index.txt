@@ -6,11 +6,11 @@ A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | 
 A
 Afghanistan - Kabul
 Albania
-Algeria
+Algeria - algiers
 Andorra
-Angola
+Angola - luanda
 Antigua and Barbuda
-Argentina
+Argentina - Buenos Aires
 Armenia
 Aruba
 Australia - Melbourne
